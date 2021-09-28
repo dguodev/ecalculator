@@ -1,1 +1,1 @@
-# ecalculator
+# Electric Cost Calculator
